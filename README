@@ -1,0 +1,15 @@
+asahi-fedora-remix-logos - Asahi Fedora Remix logos
+=========================================================
+
+The asahi-fedora-remix-logos package contains various image files
+which can be used by the bootloader, anaconda, and other related
+tools.
+
+If you are unable to abide by the trademark restrictions for any
+reason with the asahi-fedora-remix-logos package, you can use the
+generic-logos package instead.
+
+Homepage: https://pagure.io/fedora-asahi/asahi-fedora-remix-logos
+
+asahi-fedora-remix-logos is licensed under CC-BY-SA, check LICENSE
+for more details.
